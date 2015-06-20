@@ -1,1 +1,1 @@
-# ADFGVX-Cypher-Java-Programming
+#The following is an encryption/decryption program written using Java that uses a simple ADFGVX cypher to do the encryption. Extra letters were added to ADFGVX to accomodate all characters. It was written as part of a project for college. This program can encrypt then decrypt a book like War and Peace in around 4-6seconds which is very respectible. The program can be made faster with some tweeking. :)
